@@ -1,0 +1,29 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    background-color: #D1258A;
+    color: #440028;
+}
+
+div #information {          
+    color: #651142;
+}
+
+form #information {
+    color: #CB87AF;
+}
+div #media {
+    color: #651142;
+}
+
+form p a {
+    color: rgb(39, 130, 187);
+}
+
+form #media {
+    color: rgb(39, 130, 187);
+}
+
+ul {
+    display: inline-block;
+}
