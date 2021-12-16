@@ -7,7 +7,15 @@ body {
 figcaption {
     font-size: 30px;
     font-family: 'Brush Script MT', cursive;
-    color: #875686;
+    color: #000000;
+}
+
+figure {
+    max-width: max-content;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    padding: 3px;
 }
 
 form b {
