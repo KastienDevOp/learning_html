@@ -1,27 +1,58 @@
 body {
     font-family: 'Brush Script MT', cursive;
     font-size: 20px;
-    background-color: #D1258A;
-    color: #440028;
+    background-color: #EFC5AA;
 }
 
-div #information {          
-    color: #651142;
+figcaption {
+    font-size: 30px;
+    font-family: 'Brush Script MT', cursive;
+    color: #875686;
 }
 
-form #information {
-    color: #CB87AF;
+form b {
+    font-family: 'Brush Script MT', cursive;
+    color: #B75686;
+    font-size: 20px;
 }
-div #media {
-    color: #651142;
+
+form p {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    color: #A15A38;
+}
+
+form p b i u {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    color: #875686;
+}
+
+h3 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    color: #B75686;
+}
+
+
+
+div form he b u {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-style: bold;
+    color: #875686;
+}
+
+div form ul b a {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-style: bold;
+    color: #875686;
 }
 
 form p a {
-    color: rgb(39, 130, 187);
-}
-
-form #media {
-    color: rgb(39, 130, 187);
+    font-style: bold;
+    color: #A15A38;
 }
 
 ul {
